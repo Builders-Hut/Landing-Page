@@ -3,7 +3,8 @@ The main landing page for builders hut
 
 ## Stack
 
-TBD
+- Svelte
+- Tailwind CSS
 
 ## Core Features
 
